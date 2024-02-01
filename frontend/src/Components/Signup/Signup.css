@@ -1,0 +1,12 @@
+.error-text{
+    color: red;
+    font-size: 14px;
+    font-style: italic;
+}
+.signup-para{
+    color: rgb(36, 88, 171);
+}
+.signup-para:hover{
+    color: rgba(7, 10, 153, 0.971);
+    cursor: pointer;
+}
